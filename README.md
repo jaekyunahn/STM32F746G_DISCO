@@ -1,0 +1,2 @@
+# STM32F746G_DISCO
+STM32F746G_DISCO Board 바람님 스타일로 VS-Code로 빌드하기 
